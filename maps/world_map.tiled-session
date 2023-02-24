@@ -1,0 +1,78 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "world_map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "dangeon_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dangeon_1_2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dangeon_1_3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "world_map.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 416.5,
+                "y": 287
+            }
+        },
+        "world_map_1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5572.5,
+                "y": 3415
+            }
+        },
+        "world_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Я/PycharmProjects/link's awakening/maps",
+    "map.fixedSize": true,
+    "map.height": 200,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 200,
+    "openFiles": [
+        "world_map.tmx",
+        "world_tiles.tsx",
+        "dangeon_1.tsx",
+        "dangeon_1_2.tsx",
+        "dangeon_1_3.tsx"
+    ],
+    "project": "world_map.tiled-project",
+    "recentFiles": [
+        "dangeon_1_3.tsx",
+        "dangeon_1_2.tsx",
+        "dangeon_1.tsx",
+        "world_tiles.tsx",
+        "world_map.tmx",
+        "world_map_1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 1,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
